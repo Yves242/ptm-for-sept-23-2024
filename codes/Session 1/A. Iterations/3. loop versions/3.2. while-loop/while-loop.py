@@ -26,7 +26,7 @@ while (num_variable <= 1):                  # iteration 1
     print(num_variable)                     print(num_variable)     <- prints what?
     
                                             # check if should stop now
-                                            if (num_variable <= 3):
+                                            if (not (num_variable <= 1)):
                                                 exit(0)                                                
 
 #==================================#        #======================================#

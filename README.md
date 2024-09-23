@@ -8,8 +8,9 @@ This repository will also function as the central hub for all our forthcoming pe
 
 1. [About](#about)
 2. [Code Samples](#code-samples)
-3. [Homework](#homework)
-4. [Contact](#contact)
+3. [Presentations](#presentations)
+4. [Homework](#homework)
+5. [Contact](#contact)
 
 ## About
 

@@ -32,4 +32,6 @@ greet("Alice")  # Output: Hello, Alice!
 # Do the other things
 add_two_numbers(1,2)
 add_five_numbers(1,2,3,4,5)
-give_sum_of_two_numbers(10,20)
+
+variable = give_sum_of_two_numbers(10,20)
+print(f"The result is {variable}.")

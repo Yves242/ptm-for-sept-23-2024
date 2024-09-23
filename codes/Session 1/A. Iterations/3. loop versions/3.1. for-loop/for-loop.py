@@ -8,6 +8,11 @@ exit_value = 10
 
 
 # for-loop version 
+for x in range(10):
+    print(x)
+
+exit(0)
+
 for current_number in range(10):    # <- take note! 'current_number' is a different variable now
     num_variable += 1               # <- update the number
     print(num_variable)             # <- print the number

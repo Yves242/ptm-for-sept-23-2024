@@ -7,6 +7,10 @@ last_char = my_string[-1]   # '!'
 
 # (!important!) Slicing strings
 substring = my_string[7:12] # 'World'
+# "Hello, World!"
+#  0123456789012
+#  ..... 
+# my_string[0:5]
 
 # (!important!) String concatenation
 new_string = my_string + " How are you?"  # 'Hello, World! How are you?'
@@ -22,7 +26,7 @@ lowercase_string = my_string.lower() # 'hello, world!'
 replaced_string = my_string.replace("World", "Python") # 'Hello, Python!'
 
 # Splitting strings
-words = my_string.split(' ')  # ['Hello,', 'World!']
+words = my_string.split(' ')  # ['Hello,', 'World!', 'another_word']
 
 # Getting the length of the string
 length_of_string = len(my_string)  # 13

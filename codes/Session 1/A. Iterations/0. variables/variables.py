@@ -24,7 +24,6 @@ print(num_variable)    # what's the value?
 
 
 
-
 # =============== PART 3: add 100 to num_variable ================= #
 
 # add 100 to variable

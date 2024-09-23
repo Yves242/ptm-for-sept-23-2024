@@ -1,4 +1,4 @@
-# Fibonacci Sequence Triangle
+# Fibonacci Sequence
 
 ## Problem Statement
 
